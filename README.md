@@ -1,4 +1,9 @@
-# FBI
+# ReManage Fork of FBI
+
+ReManage is a customized fork of FBI
+
+
+Original readme
 
 FBI is an open source title manager for the 3DS.
 
